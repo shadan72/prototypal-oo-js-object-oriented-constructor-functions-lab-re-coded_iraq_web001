@@ -11,4 +11,7 @@ function Driver(namae,age,experience){
   
 }
 
-function 
+function PickupLocation(address,city){
+  this.address=address;
+  this.city=city
+}
